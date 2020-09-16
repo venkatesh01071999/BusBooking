@@ -1,0 +1,42 @@
+.no-booking{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 140px;
+}
+
+.booking{
+
+        display: flex;
+        margin-top: 0px;
+        
+
+}
+
+.booking-header{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.completed{
+
+    width:120px!important;
+    cursor:default!important;
+
+}
+
+.over{
+
+    width:120px!important
+
+}
+.alerting{
+
+    width:150px!important;
+
+}
+

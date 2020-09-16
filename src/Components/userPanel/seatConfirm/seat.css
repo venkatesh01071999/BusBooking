@@ -1,0 +1,20 @@
+.seat-confirm{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+}
+
+.h5{
+
+    font-size: 1.9rem!important;
+
+}
+
+.card-body{
+
+    padding-top:0.5rem!important;
+    text-align: center;
+
+}

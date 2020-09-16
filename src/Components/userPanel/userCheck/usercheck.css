@@ -1,0 +1,127 @@
+.user-check{
+
+    width: 100vw;
+    height: 100vh;
+    
+    
+}
+
+.bus{
+
+    float: left; 
+    margin-top: 150px;
+    margin-left: 20px;
+
+}
+
+.btn-primary{
+
+    width:100%;
+
+
+}
+
+.sort-by{
+
+    height:200px!important;
+    margin-top: 150px;
+    width:230px;
+    margin-left: 20px;
+    float:left!important;
+}
+
+.fare{
+
+    margin-left: 20px;
+    font-size: 20px;
+
+}
+
+.found{
+
+    float: left;
+    margin-right: 120px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 15px;
+
+}
+
+.rating{
+
+    margin-left: 60px;
+    font-size: 25px;
+    font-weight: bold;
+
+
+}
+
+.dept{
+
+    margin-right: 60px;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.fare-head{
+
+    margin-left: 55px;
+    font-size: 25px;
+    font-weight: bold;
+
+
+}
+
+.seat-head{
+
+    margin-left: 18px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+
+.headings{
+
+    margin-bottom: 20px;
+    display: flex;
+
+}
+
+.missing{
+
+    height: 150px;
+}
+
+.missing-wrapper{
+
+    margin-top:100px;
+    display: flex;
+    justify-content: center;
+}
+
+
+@media(max-width:1352px){
+
+   
+
+    .bus{
+
+        margin-top: 0px;
+    
+    }
+    
+    .sort-by{
+
+        margin-top:70px
+
+    }
+    .Sort-by{
+
+        display: flex;
+        justify-content: center;
+    }
+
+}
+

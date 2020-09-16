@@ -1,0 +1,12 @@
+.empty{
+
+    width: 100vw;
+    height: 100vh;
+    background-image: url("C:\\Users\\Venkatesh\\Bus Booking\\client-booking\\src\\bus.jpg");
+    background-size: cover;
+    text-align: center;
+    padding-top: 200px;
+
+
+
+}

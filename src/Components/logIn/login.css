@@ -1,0 +1,29 @@
+.login{
+
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    padding-top: 80px;
+
+}
+
+.login-form{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-up{
+
+    color: black;
+    
+}
+
+.error-1{
+
+    color: indianred;
+    display:flex ;
+    justify-content: center;
+    
+}

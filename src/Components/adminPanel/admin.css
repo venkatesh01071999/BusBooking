@@ -1,0 +1,55 @@
+.admin-panel{
+
+    
+    width: 100vw;
+    height: 100vh;
+}
+
+.main-card{
+
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.admin-travelling{
+
+    margin-top:30px;
+    display:flex;
+    justify-content: space-evenly
+
+}
+
+.jumbotron{
+
+    padding: 0px 25px!important;
+
+}
+
+.form-group{
+
+    margin-bottom: 0rem!important;
+
+
+}
+
+label {
+    display: inline-block;
+    margin-bottom: 0rem!important;
+}
+
+.form-control{
+
+    height: calc(1.2em + .75rem + 2px)!important;
+
+
+}
+
+.btn-primary {
+
+    margin-top: 10px!important;
+    margin-bottom: 4px!important;
+    margin-right: 20px;
+}

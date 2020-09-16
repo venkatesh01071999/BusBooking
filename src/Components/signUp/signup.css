@@ -1,0 +1,33 @@
+.signup{
+
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    padding-top: 150px;
+
+}
+
+.signup-form{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-up{
+
+    color: black;
+    
+}
+
+.error{
+
+    color: indianred;
+
+}
+
+.success{
+
+    color:green
+
+}

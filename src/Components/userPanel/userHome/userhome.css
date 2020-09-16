@@ -1,0 +1,31 @@
+.user-home{
+
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+.links{
+
+    margin-left: 30px;
+
+}
+
+.travelling{
+
+    display: flex;
+    margin-top: 150px;
+    justify-content: center;
+    align-items: center;
+}
+
+@media(max-width:800px){
+
+    .travelling{
+
+        margin-top: 50px;
+
+    }
+
+
+}
