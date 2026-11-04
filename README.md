@@ -1,4 +1,4 @@
-# Route Bus – Bus Ticket Booking (Frontend)
+# Bus Ticket Booking (Frontend)
 
 A React web app for booking intercity bus tickets. Passengers search routes by date, pick seats on a live seat map, confirm bookings, and manage or rate their trips. Admins add buses and view every booking across the network.
 
